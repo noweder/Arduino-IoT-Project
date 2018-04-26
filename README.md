@@ -10,8 +10,11 @@ VCS Contents:
 2-	Libraries:
 
 • DHT.zip à used for DHT humidity and temperature sensors
+
 • DHT_Adafruit_Sensor.zip à used for DHT humidity and temperature sensors
+
 • MFRC522.zip à used for RFID sensor
+
 • pubsubclient-2.6.zip à used to publish/subscribe to MQTT server as a client
 
 3-	Node-RED UI Dashboard Screenshots
