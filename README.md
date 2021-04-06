@@ -1,9 +1,9 @@
 # Arduino IoT Project
 Project Owner: Hamza Noweder
 
-VCS URL: https://github.com/noweder/Arduino-IoT-Project
+- VCS URL: https://github.com/noweder/Arduino-IoT-Project
 
-VCS Contents:
+## VCS Contents:
 
 1-	Arduino Final Version Code
 
